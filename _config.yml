@@ -16,8 +16,8 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
-# your url: http://USERNAME.github.io
+#url: https://koppl.in/indigo
+url: http://andybeet.com
 
 permalink: /:title/
 
@@ -34,11 +34,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+twitter: andyBGG
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+researchgate: 
+linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
 github: mygithub
@@ -47,10 +48,10 @@ github: mygithub
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+# email: myemail@gmail.com
 
 authors:
     johndoe:
